@@ -1,2 +1,3 @@
 # 2048_activity_game
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https:/www.youtube.com/watch?v=uqaPvU1zoSI)
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
